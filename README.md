@@ -1,2 +1,2 @@
 # subsumption-switch
-A simple repository for testing Jenkins
+A simple repository for testing Jenkins, using github
